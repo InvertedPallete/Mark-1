@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "babel-plugin-convert-to-json": "^0.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.22.1",
+    "@babel/plugin-syntax-json-strings": "^7.8.3",
+    "@babel/preset-env": "^7.22.2"
+  }
+}
